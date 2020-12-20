@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,GACE,eACF","file":"main.868bf760.chunk.css","sourcesContent":["ul {\n  list-style: none;\n}\n/* .game {\n  position: absolute;\n  top: 20%;\n  left: 30%;\n  display: flex;\n} */"]}
